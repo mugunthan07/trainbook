@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323841395904",
+    "project_id": "trainbook-ae227",
+    "storage_bucket": "trainbook-ae227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323841395904:android:fba2655724d612e6a47125",
+        "android_client_info": {
+          "package_name": "com.example.trainbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323841395904-gn75t3jbrduno6gbk4frgg6m2qig6jda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9S2Dq1Rxeo5eE-6QIykor2sr-p5XR_Gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323841395904-gn75t3jbrduno6gbk4frgg6m2qig6jda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
