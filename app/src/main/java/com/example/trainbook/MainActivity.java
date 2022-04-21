@@ -32,8 +32,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         mAuth = FirebaseAuth.getInstance();
+
         emaillogin = (EditText) findViewById(R.id.emaillogin);
         passwordlogin = (EditText) findViewById(R.id.passwordlogin);
+
         Button btn = findViewById(R.id.loginbtn);
         Button btn1 = findViewById(R.id.regbtn);
         btn.setOnClickListener(new View.OnClickListener() {
